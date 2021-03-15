@@ -1,7 +1,7 @@
 body {
   box-sizing: border-box;
   overflow-x: hidden;
-  background: #574b90;
+  background: #20eb0d;
   font-family: 'Lato', sans-serif;
 }
 
@@ -10,7 +10,7 @@ body {
 }
 
 .form-control {
-  border-color: #6c5ce7 !important;
+  border-color: #08e3eb !important;
 }
 
 button,
@@ -34,17 +34,17 @@ button {
   text-align: center;
   padding: 15px !important;
   outline: none;
-  background-color: #546de5 !important;
-  border-color: #6c5ce7 !important;
-  color: #fff !important;
+  background-color: #26cfe6 !important;
+  border-color: #1718178c !important;
+  color: rgb(211, 12, 12) !important;
 }
 
 button:hover {
-  background-color: #8e9fec !important;
+  background-color: #7486d8 !important;
 }
 
 button:active {
-  background-color: #8393dd !important;
+  background-color: #9c354c !important;
 }
 
 .ce_button .col-xs-4{
@@ -76,8 +76,8 @@ button:active {
 .details {
   display:flex;
   justify-content: space-between;
-  background-color: black;
-  color: white;
+  background-color: rgb(175, 130, 130);
+  color: rgb(241, 224, 224);
   font-size:12px;
   font-weight: bold;
   padding:5px 15px;
